@@ -109,4 +109,3 @@ Results are saved under `results/<checkpoint_name>/`.
   year={2026}
 }
 ```
-
